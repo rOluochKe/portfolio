@@ -1,0 +1,204 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+button,
+span {
+  font-family: 'Poppins', sans-serif;
+}
+
+.bg-dark {
+  background-color: #f37b83 !important;
+}
+
+.nav-link {
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 30px;
+  color: #faefff !important;
+}
+
+main {
+  margin-top: 55px;
+  margin-bottom: -15px;
+}
+
+/* .about-me, .services, .portfolio, .experience, .skills, .get-in-touch {
+  margin: 30px 0;
+} */
+
+/* About Me */
+
+#about-text {
+  margin: 100px 0;
+}
+
+#about-me {
+  background: #f9f0ff;
+}
+
+.sub-title {
+  font-weight: 400;
+  line-height: 28px;
+  font-size: 28px;
+  color: #492d31;
+  padding: 15px;
+}
+
+.branding {
+  font-weight: 800;
+  font-size: 100px;
+  line-height: 94px;
+  color: #f37b83;
+  padding: 15px;
+}
+
+.text-one {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 30px;
+  color: #a88590;
+  padding: 15px;
+}
+
+.about-social {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  color: #492d31;
+  text-transform: uppercase;
+  padding: 15px;
+}
+
+.my-image .card {
+  border: none;
+}
+
+.my-image {
+  background-image: url(https://via.placeholder.com/600x600);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: auto;
+}
+
+/* Services */
+#services,
+#portfolio,
+#experience,
+#skills,
+#get-in-touch {
+  background: #302729;
+  padding: 120px 15px;
+}
+
+.common-title {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 30px;
+  color: #f37b83;
+  margin-bottom: 30px;
+}
+
+.main-text-one {
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 35px;
+  color: #a88590;
+}
+
+.main-text,
+address {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 35px;
+  color: #a88590;
+}
+
+.btn.btn-primary {
+  color: #fff;
+  background: #302729;
+  padding: 15px 30px;
+  border: 1px solid #f37b83;
+  border-radius: 50px;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+.fas {
+  padding: 25px;
+}
+
+.card {
+  margin-bottom: 30px;
+  background: #362a2e;
+  border-radius: 0;
+}
+
+
+/* Portfolio */
+.portfolio-items {
+  margin: 0 auto;
+}
+
+
+/* Experience */
+
+
+
+/* Skills */
+
+
+
+/* Get in Touch */
+label {
+  font-size: 15px;
+  line-height: 35px;
+  color: #fff;
+  font-weight: 400;
+}
+
+.text-muted {
+  color: #8c8a8a !important;
+}
+
+form {
+  background: #f37b83;
+  padding: 30px;
+}
+
+.form-control {
+  background: #f37b83;
+  border-radius: 0 !important;
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: #fff !important;
+  font-size: 15px;
+  line-height: 30px;
+  font-weight: 400;
+}
+
+.contact-btn {
+  width: 100%;
+  border-radius: 0 !important;
+  border: 1px solid #fff !important;
+  background: #f37b83 !important;
+}
+
+.form-group {
+  margin-bottom: 3rem;
+}
+
+address {
+  margin-top: 60px;
+}
